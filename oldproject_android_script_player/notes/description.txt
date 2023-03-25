@@ -1,0 +1,39 @@
+What can the program do : 
+* Move around in the map : 
+	4 maps exist, each has a limited set of reachable places
+* Press "A" next to the crafting machine:
+	* Craft what you can :
+		1. Select the item you want to craft
+		2. Click on "Quick Craft" 
+		3. Click on "Continue" on the new interface that pops up
+	* Click the red arrow the exit
+* Press "A" next to the healing center, Heal you health but lose your XP boosters
+	* Press "Heal" to head
+		* press a grey arrow to continue the game
+	* Press the red arrow to cancel 
+* Got an invitation from a game : 
+	* Click the green accept icon to continue with the challenge
+	* CLick on the red mark to deny to request 
+* Press "A" to Enter to "loto" Club rick
+	* Got some credit points, and choose an option to choose
+		* P.S.: the drops have a drop rate, and for some options, some options are guaranteed
+	* Press a red arrow to quit the shop's menu
+* Find and collect the spawned drops
+	* Keep clicking until the continue options pops up
+	* Click the continue button
+* Find and challenge morties:
+	* Search for Exotic/Rare/... morties
+	* when found go, and challenge them, 
+	* try reducing their health bar, while evading killing them
+	* when low health :
+		1. Press ITEM (GREEN) : 
+		2. choose morty manipulator chip ( must check that we re not out of stock before fighting them) 
+		3. click on "Use"
+* Fight against real players : 
+	* "See" where they are : 
+	* Click on them 
+	* 
+	
+	
+	
+
